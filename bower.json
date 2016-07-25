@@ -1,0 +1,17 @@
+{
+  "name": "righteous-font",
+  "authors": [
+    "Misha Serenkov <mi.serenkov@gmail.com>"
+  ],
+  "description": "Righteous-Regular font",
+  "main": "css/righteous.min.css",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
