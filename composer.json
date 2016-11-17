@@ -1,8 +1,16 @@
 {
   "name": "miserenkov/righteous_font",
-  "authors": [
-    "Misha Serenkov <mi.serenkov@gmail.com>"
-  ],
   "description": "Righteous-Regular font",
-  "version": "1.0.0"
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Misha Serenkov",
+            "email": "mi.serenkov@gmail.com"
+        }
+    ],
+    "source": {
+        "type": "git",
+        "reference": "master",
+        "url": "https://github.com/miserenkov/righteous-font"
+    }
 }
